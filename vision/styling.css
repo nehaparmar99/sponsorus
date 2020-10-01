@@ -2,7 +2,7 @@ body{
 
 }
 .bg-dark{
-  transition: 200ms ease;
+  transition: 210ms ease; // setting transition 
   background: transparent !important;
 }
 .bg-dark.scrolled{
@@ -97,9 +97,7 @@ background-color: transparent;
 .active:after {
   content: "\2796"; /* Unicode character for "minus" sign (-) */
 }
-.FAQ{
 
-}
 .faqs{
   padding-top: 35px;
 }
